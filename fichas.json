@@ -1,0 +1,195 @@
+{
+    "fichas": [
+
+        {
+            "Responsavel": "Edenilson Rodrigues",
+            "Bebe": "Lucas de Freitas",
+            "Idade": "5 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "Lucas precisou de várias sessões para que o tratamento tivesse o efeito esperado. Gastamos com ele cerca de 1 mês e meio (6 semanas), pois os pais não estavam aplicando todas as orientações todos os dias. Isso atrasa o procedimento e também custa mais à família."
+        },
+
+        {
+            "Responsavel": "Gabriela dos Santos",
+            "Bebe": "Melissa dos Santos",
+            "Idade": "2 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria e torciclo posicional",
+            "Capacete": false,
+            "Observacoes": "A Melissa esteve com ótimos resultados em todas as 3 sessões. Teve uma melhora rápida, pois tinha poucos meses de vida. A mãe sempre estava atenta às instruções que eram passadas."
+        },
+
+        {
+            "Responsavel": "Isabela Amadeu",
+            "Bebe": "Miriã Amadeu",
+            "Idade": "3 meses",
+            "Foto": "",
+            "Tratamento": "Torcicolo posicional",
+            "Capacete": false,
+            "Observacoes": "Este caso se resolveu com as poucas 3 sessões de atendimento feitas. A bebê Miriã tinha o costume de dormir apenas de um lado, e não exercitava girar a cabeça para o outro lado durante o dia. Isso causava as dores, porém incentivamos ela por meio de objetos chamativos a olhar para lado prejudicado."
+        },
+
+        {
+            "Responsavel": "Maria Tainá Castro",
+            "Bebe": "Mikaely Castro",
+            "Idade": "7 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": true,
+            "Observacoes": "Mikaely foi atendida com uma idade próxima ao que se espera de tratamentos mais apropriados, como o uso do capacete, visto que sua cabeça já não estava tão maleável. Encaminhos ela para o tratamento em Fortaleza."
+        },
+
+        {
+            "Responsavel": "Jonnadan Maia",
+            "Bebe": "Hadassa Souza",
+            "Idade": "2 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria e torcicolo congênito",
+            "Capacete": false,
+            "Observacoes": "O tratamento de Hadassa foi tranquilo, mas durou 5 semanas. O pai geralmente tinha de deixar a filha com algum parente enquanto ia para o trabalho, e isso prejudicava nosso acompanhamento com ela durante os dias."
+        },
+
+        {
+            "Responsavel": "Mônica Ribeiro",
+            "Bebe": "Robert Ribeiro",
+            "Idade": "3 meses",
+            "Foto": "",
+            "Tratamento": "Torcicolo congênito",
+            "Capacete": false,
+            "Observacoes": "O paciente Robert teve uma pequena demora para que o torcicolo gerado pelo encurtamento do músculo fosse corrigido. O tratamento demorou 4 semanas, mas os pais estavam sempre atentos às instruções."
+        },
+
+        {
+            "Responsavel": "Calebe Teixeira",
+            "Bebe": "João Lucas Costa",
+            "Idade": "4 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "Não houve nenhum contratempo no atendimento do João. Os pais fizeram conforme as instruções e ele teve resultados em 2 semanas, embora todo o tratamento tenha durado 4 semanas."
+        },
+
+        {
+            "Responsavel": "Lidiane Pereira",
+            "Bebe": "Emanuela Pereira",
+            "Idade": "6 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": true,
+            "Observacoes": "Pela idade da Emanuela, não foi possível reverter o quadro sem o encaminhamento para o tratamento com capacete. Os pais estavam constantemente esquecendo das recomendações, então não houve outra alternativa."
+        },
+
+        {
+            "Responsavel": "Rosineide Almeida",
+            "Bebe": "Kleber Almeida",
+            "Idade": "1 mês",
+            "Foto": "",
+            "Tratamento": "Torcicolo congênito",
+            "Capacete": false,
+            "Observacoes": "O bebê Kleber estava chorando bastante nos primeiros dias, e foi dificultoso reconhecer qual era o problema. Por fim, notamos que ele não relaxa muito enquanto dormia, e a cabeça permanecia inclinada em direção ao corpo, devido ao músculo encurtado. O tratamento foi rápido e eficaz, durando 2 semanas."
+        },
+
+        {
+            "Responsavel": "Neide Nobre",
+            "Bebe": "Anny Nobre",
+            "Idade": "2 meses",
+            "Foto": "",
+            "Tratamento": "Assimetria e torciclo posicional",
+            "Capacete": false,
+            "Observacoes": "com tratamento rápido, Anny recobrou uma postura melhor após os incentivos para que os pais a colocassem para dormir em diferentes posições. Apenas 3 semanas de acompanhamento."
+        },
+
+        {
+            "Responsavel": "Mariana Silva",
+            "Bebe": "Miguel Silva",
+            "Idade": "3 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana e torcicolo",
+            "Capacete": false,
+            "Observacoes": "O Miguel chegou até mim com uma assimetria leve na cabecinha e dificuldade para virar o pescoço para um dos lados. Iniciamos o tratamento cedo, com exercícios suaves e orientações para os pais aplicarem em casa. Em poucas semanas já era possível perceber a melhora na mobilidade do pescoço, e ao longo dos meses o formato da cabeça foi se equilibrando naturalmente."
+        },
+        {
+            "Responsavel": "Renata Oliveira",
+            "Bebe": "Helena de Oliveira",
+            "Idade": "4 meses",
+            "Foto": " ",
+            "Tratamento": "Torcicolo",
+            "Capacete": false,
+            "Observacoes": "A Helena apresentava torcicolo congênito. Trabalhamos com sessões semanais, sempre respeitando o tempo e o conforto dela. Com orientações constantes aos pais, a evolução foi excelente."
+        },
+        {
+            "Responsavel": "Camila Rocha",
+            "Bebe": "Arthur Rocha",
+            "Idade": "2 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "O Arthur foi encaminhado bem no início, o que fez toda a diferença. Ele tinha preferência por olhar sempre para o mesmo lado, o que já começava a alterar o formato da cabeça. Com intervenções precoces e ajustes simples na rotina da família, conseguimos reverter o quadro de forma tranquila e rápida."
+        },
+        {
+            "Responsavel": "Patrícia Mendes",
+            "Bebe": "Laura Carvalho",
+            "Idade": "6 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "A Laura chegou com uma assimetria craniana moderada e rigidez no pescoço. Adaptamos os exercícios à fase do desenvolvimento dela, trabalhando mobilidade e fortalecimento. Aos poucos, a simetria foi melhorando e os movimentos ficaram mais livres e naturais."
+        },
+        {
+            "Responsavel": "Juliana Costa",
+            "Bebe": "Pedro Lima",
+            "Idade": "5 meses",
+            "Foto": " ",
+            "Tratamento": "Torcicolo",
+            "Capacete": false,
+            "Observacoes": "O Pedro apresentava dificuldade para sustentar a cabeça e torcicolo. Com foco no controle cervical e na mobilidade, além do envolvimento ativo da família, ele ganhou mais força, conforto nos movimentos."
+        },
+        {
+            "Responsavel": "Aline Fernandes",
+            "Bebe": "Sofia Cardoso",
+            "Idade": "8 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": true,
+            "Observacoes": "A Sofia tinha uma assimetria grave que preocupava bastante os pais. Iniciamos um acompanhamento, mas como imaginado por causa de idade, o tratamento da bebê consistiu no uso do capacete ortopédico."
+        },
+        {
+            "Responsavel": "Daniela Pires",
+            "Bebe": "Lucas Pires",
+            "Idade": "4 meses",
+            "Foto": " ",
+            "Tratamento": "Torcicolo",
+            "Capacete": false,
+            "Observacoes": "O Lucas apresentava torcicolo persistente e desconforto em algumas posições. O tratamento exigiu mais dedicação, sempre respeitando os limites dele. A evolução foi gradual, mas muito satisfatória, com melhora da postura."
+        },
+        {
+            "Responsavel": "Fernanda Lopes",
+            "Bebe": "Manuela Lopes",
+            "Idade": "4 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana e torcicolo",
+            "Capacete": false,
+            "Observacoes": "A Manuela tinha uma assimetria craniana perceptível e resistência para virar o pescoço para um lado. As sessões foram conduzidas de forma leve e lúdica. Com o envolvimento da família, ela passou a se movimentar com mais liberdade e a assimetria foi diminuindo de forma consistente."
+        },
+        {
+            "Responsavel": "Bianca Nogueira",
+            "Bebe": "Enzo Nogueira",
+            "Idade": "2 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "O Enzo chegou bem novinho, com sinais iniciais de assimetria. O acompanhamento precoce permitiu um tratamento simples e rápido. Com poucas sessões e orientações bem aplicadas em casa, ele apresentou uma evolução excelente."
+        },
+        {
+            "Responsavel": "Larissa Almeida",
+            "Bebe": "Alice Alves",
+            "Idade": "6 meses",
+            "Foto": " ",
+            "Tratamento": "Assimetria craniana",
+            "Capacete": false,
+            "Observacoes": "A Alice apresentava assimetria craniana associada a atraso em algumas aquisições motoras. O tratamento foi realizado de forma global, respeitando cada etapa do desenvolvimento. Ao longo do acompanhamento, ela ganhou mais controle corporal, conforto e melhora significativa no alinhamento da cabeça."
+        }
+    ]
+}
