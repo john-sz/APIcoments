@@ -2,23 +2,23 @@
     "fichas": [
 
         {
-            "Responsavel": "Edenilson Rodrigues",
-            "Bebe": "Lucas de Freitas",
-            "Idade": "5 meses",
-            "Foto": "",
-            "Tratamento": "Assimetria craniana",
-            "Capacete": false,
-            "Observacoes": "Lucas precisou de várias sessões para que o tratamento tivesse o efeito esperado. Gastamos com ele cerca de 1 mês e meio (6 semanas), pois os pais não estavam aplicando todas as orientações todos os dias. Isso atrasa o procedimento e também custa mais à família."
+            "responsavel": "Edenilson Rodrigues",
+            "bebe": "Lucas de Freitas",
+            "idade": "5 meses",
+            "foto": "",
+            "tratamento": "Assimetria craniana",
+            "capacete": false,
+            "observacoes": "Lucas precisou de várias sessões para que o tratamento tivesse o efeito esperado. Gastamos com ele cerca de 1 mês e meio (6 semanas), pois os pais não estavam aplicando todas as orientações todos os dias. Isso atrasa o procedimento e também custa mais à família."
         },
 
         {
-            "Responsavel": "Gabriela dos Santos",
-            "Bebe": "Melissa dos Santos",
-            "Idade": "2 meses",
-            "Foto": "",
-            "Tratamento": "Assimetria e torciclo posicional",
-            "Capacete": false,
-            "Observacoes": "A Melissa esteve com ótimos resultados em todas as 3 sessões. Teve uma melhora rápida, pois tinha poucos meses de vida. A mãe sempre estava atenta às instruções que eram passadas."
+            "responsavel": "Gabriela dos Santos",
+            "bebe": "Melissa dos Santos",
+            "idade": "2 meses",
+            "foto": "",
+            "tratamento": "Assimetria e torciclo posicional",
+            "capacete": false,
+            "observacoes": "A Melissa esteve com ótimos resultados em todas as 3 sessões. Teve uma melhora rápida, pois tinha poucos meses de vida. A mãe sempre estava atenta às instruções que eram passadas."
         },
 
         {
