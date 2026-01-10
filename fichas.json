@@ -1,5 +1,4 @@
-{
-    [
+[
         {
             "Responsavel": "Edenilson Rodrigues",
             "Bebe": "Lucas de Freitas",
@@ -190,5 +189,4 @@
             "Capacete": false,
             "Observacoes": "A Alice apresentava assimetria craniana associada a atraso em algumas aquisições motoras. O tratamento foi realizado de forma global, respeitando cada etapa do desenvolvimento. Ao longo do acompanhamento, ela ganhou mais controle corporal, conforto e melhora significativa no alinhamento da cabeça."
         }
-    ]
-}
+]
